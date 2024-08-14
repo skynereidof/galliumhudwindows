@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Gallium HUD
+Comment=Run GLXGears with Gallium HUD
+Exec=/usr/bin/python3 /usr/share/glxgears/glxgears2.py
+Icon=/home/sky/.local/share/icons/glxgears.jpg
+Terminal=false
+Categories=Utility;
